@@ -4,6 +4,7 @@ end
 
 def create_an_array
   colors = ["red", "brown", "teal", "amber"]
+  weather = ["sunny", "rainy"]
 end
 
 def add_element_to_end_of_array(array, element)
